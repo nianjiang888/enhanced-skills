@@ -22,7 +22,7 @@ enhanced/
 ├── ...（共 3 个技能目录）
 ```
 
-每个技能包结构一致：`SKILL.md`（技能定义）、`scripts/`（引擎与冒烟测试）、`resources/`（规则与数据）、`references/`（依据）、`examples/`（输入输出样例）、`README.md`、`FAQ.md`、`CHANGELOG.md`。
+每个技能包结构：`SKILL.md`（技能定义）+ `references/`（配套依据库：检查项、清单、模板）。纯指令型技能，无脚本依赖，Agent 读取 SKILL.md 即按工作流执行。
 
 ## 本地使用
 
@@ -30,11 +30,7 @@ enhanced/
 git clone <仓库地址>
 ```
 
-把需要的技能目录整体复制到你的 Agent skills 目录即可。单个技能这样跑：
-
-```
-python <技能目录>/scripts/<引擎>.py --help
-```
+把需要的技能目录整体复制到你的 Agent skills 目录即可。技能由 Agent 读取 `SKILL.md` 后按工作流执行，无需单独运行脚本。
 
 ## 从 GitHub 导入到 SkillHub
 
