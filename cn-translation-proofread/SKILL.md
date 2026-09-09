@@ -1,6 +1,8 @@
 ---
 name: cn-translation-proofread
+slug: cn-translation-proofread
 display_name: 中文翻译校对与本地化质检
+displayName: 中文翻译校对与本地化质检
 version: 1.0.0
 description: 对中文↔外语的机翻或人译做质量校对：accuracy 评分、翻译腔识别、术语表一致性、文化适配、中英混排与数值占位符检查，输出句级置信分与可改建议。
 license: MIT

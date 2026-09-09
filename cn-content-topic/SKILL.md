@@ -1,6 +1,8 @@
 ---
 name: cn-content-topic
+slug: cn-content-topic
 display_name: 中文内容选题与标题工程
+displayName: 中文内容选题与标题工程
 version: 1.0.0
 description: 围绕一个账号定位或内容方向，用六路信源批量产出选题池并逐条评分排序，再为优先选题生成多版本候选标题、首屏钩子与平台合规标注。
 license: MIT

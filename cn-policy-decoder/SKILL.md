@@ -1,6 +1,8 @@
 ---
 name: cn-policy-decoder
+slug: cn-policy-decoder
 display_name: 中文政策解读与申报拆解
+displayName: 中文政策解读与申报拆解
 version: 1.0.0
 description: 拿到一份中文政策文件（红头文件、通知、方案、征求意见稿），先定位效力层级与文号，再拆解支持方向与申报硬条件，匹配申报主体，输出带时间倒排和待核实项的落地清单。
 license: MIT

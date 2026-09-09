@@ -1,6 +1,8 @@
 ---
 name: cn-competitor-analysis
+slug: cn-competitor-analysis
 display_name: 中文竞品情报分析
+displayName: 中文竞品情报分析
 version: 1.0.0
 description: 围绕一个产品/功能方向，用公开中文信源做竞品识别、维度跟踪、SWOT 与 2x2 定位图、战斗卡，输出带出处的决策型竞品简报。
 license: MIT

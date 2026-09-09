@@ -1,6 +1,8 @@
 ---
 name: cn-code-review
+slug: cn-code-review
 display_name: 中文代码审查
+displayName: 中文代码审查
 version: 1.0.0
 description: 对代码改动做中文代码审查，按上下文、高层、逐行、总结四阶段推进，用严重度标记区分阻塞项与建议项，并对每条反馈独立评估技术合理性，不卑不亢。
 license: MIT

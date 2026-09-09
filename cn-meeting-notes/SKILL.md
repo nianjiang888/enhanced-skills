@@ -1,6 +1,8 @@
 ---
 name: cn-meeting-notes
+slug: cn-meeting-notes
 display_name: 中文会议纪要整理
+displayName: 中文会议纪要整理
 version: 1.0.0
 description: 把会议录音转写稿或零散笔记，整理成结论先行、行动项带责任人和截止时间的中文结构化纪要，并清理口语赘词。
 license: MIT

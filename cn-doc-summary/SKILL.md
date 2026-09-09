@@ -1,6 +1,8 @@
 ---
 name: cn-doc-summary
+slug: cn-doc-summary
 display_name: 中文长文与报告摘要
+displayName: 中文长文与报告摘要
 version: 1.0.0
 description: 把公众号、知乎、飞书、研报等中文长文或报告，按受众与目的做成结论先行、可引用、去 AI 味的结构化摘要。
 license: MIT
